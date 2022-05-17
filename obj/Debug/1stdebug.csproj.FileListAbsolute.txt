@@ -1,0 +1,12 @@
+D:\_University\IOOP\_Assignment\1stdebug\bin\Debug\1stdebug.exe.config
+D:\_University\IOOP\_Assignment\1stdebug\bin\Debug\1stdebug.exe
+D:\_University\IOOP\_Assignment\1stdebug\bin\Debug\1stdebug.pdb
+D:\_University\IOOP\_Assignment\1stdebug\obj\Debug\1stdebug.csproj.AssemblyReference.cache
+D:\_University\IOOP\_Assignment\1stdebug\obj\Debug\1stdebug.csproj.SuggestedBindingRedirects.cache
+D:\_University\IOOP\_Assignment\1stdebug\obj\Debug\_1stdebug.Form1.resources
+D:\_University\IOOP\_Assignment\1stdebug\obj\Debug\_1stdebug.InitForm.resources
+D:\_University\IOOP\_Assignment\1stdebug\obj\Debug\_1stdebug.Properties.Resources.resources
+D:\_University\IOOP\_Assignment\1stdebug\obj\Debug\1stdebug.csproj.GenerateResource.cache
+D:\_University\IOOP\_Assignment\1stdebug\obj\Debug\1stdebug.csproj.CoreCompileInputs.cache
+D:\_University\IOOP\_Assignment\1stdebug\obj\Debug\1stdebug.exe
+D:\_University\IOOP\_Assignment\1stdebug\obj\Debug\1stdebug.pdb
